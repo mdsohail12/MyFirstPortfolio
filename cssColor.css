@@ -1,0 +1,14 @@
+body{
+    background-color: lightyellow;
+}
+
+h1{
+    color:#0000ff;
+    background-color: lightblue;
+}
+#main-heading{
+    color: rgb(255, 0, 0);
+}
+.fill{
+    color: green;
+}
