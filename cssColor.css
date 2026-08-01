@@ -5,6 +5,8 @@ body{
 h1{
     color:#0000ff;
     background-color: lightblue;
+    border: 3px solid blue;
+     border-radius:10px;
 }
 #main-heading{
     color: rgb(255, 0, 0);

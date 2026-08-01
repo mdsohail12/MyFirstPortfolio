@@ -1,0 +1,20 @@
+h1{
+    background-color: yellowgreen;
+    border:2px solid blue;; 
+}
+h2{
+    background-color: yellowgreen;
+    border:2px dashed red;
+}
+h3{
+    background-color: yellowgreen;
+    border:2px dotted green;
+}
+h4{
+    background-color: yellowgreen;
+    border:6px solid black;
+}
+h5{
+    background-color: yellowgreen;
+    border:3px dotted green;
+}
