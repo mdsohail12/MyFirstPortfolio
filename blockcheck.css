@@ -1,0 +1,17 @@
+/* .box{
+    border: 2px solid blue;
+} */
+ body{
+    background-color: whitesmoke;
+ }
+ h1{
+    text-align:center;
+    color:blue;
+ }
+ .box{
+    border:2px solid blue;
+    padding: 20px;
+    margin: 20px;
+    background-color: lightblue;
+    width :200px;
+ }
