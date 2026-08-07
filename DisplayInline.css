@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: black;
+    text-align: center;
+}
+.Box{
+    display: inline-block;
+    padding: 20px;
+    margin: 50px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 300px;
+    height: 40px auto;
+}
+.img-link{
+    width: 20px;
+    height: 40px;
+
+}
