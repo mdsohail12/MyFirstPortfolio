@@ -1,0 +1,15 @@
+span{
+    display: inline-block;
+    padding: 20px;
+    border: 2px solid blue;
+     width:150px;
+    height:100px;
+    background-color:lightblue;
+    text-align: center;
+}
+/* h1{
+
+ width:200px;
+    height:100px;
+    background-color:lightblue;
+} */
