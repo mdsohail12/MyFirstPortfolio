@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+}
+.profile-card{
+     padding: 30px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    width: 350px;
+    margin: 30px auto;
+    background-color: aqua;
+}
+.profile-top{
+    text-align: center;
+}
+.img-link{
+      width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.display{
+    display: inline-block;
+     padding: 15x;
+     border: 2px solid blue;
+     width:60px; 
+     height:30px; 
+     background-color: aliceblue;
+     text-align: center;
+}
